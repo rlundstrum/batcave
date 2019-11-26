@@ -50,18 +50,3 @@ for R in range(5):
         arcpy.AddMessage('Maclurky! You missed it!')
     del cursor
     time.sleep(5) #every 5 seconds run it again
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
